@@ -7,7 +7,7 @@
 
 ## 📁 内容
 - HTMLによる静的ページで構成
-- 自己紹介とKaggleコンペ参加実績のリンク掲載
+- リンク掲載
 
 ## 🛠 使用技術
 - HTML5
@@ -16,3 +16,4 @@
 ## 📌 プロジェクトリンク
 - [Spaceship Titanic](https://github.com/i-Chikako/spaceship-titanic)
 - [House Prices](https://github.com/i-Chikako/House-Prices--Advanced-Regression-Techniques)
+- [OpenAI_X_API](https://github.com/i-Chikako/ApenAI_X_API_auto)
