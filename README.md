@@ -16,4 +16,4 @@
 ## 📌 プロジェクトリンク
 - [Spaceship Titanic](https://github.com/i-Chikako/spaceship-titanic)
 - [House Prices](https://github.com/i-Chikako/House-Prices--Advanced-Regression-Techniques)
-- [OpenAI_X_API](https://github.com/i-Chikako/ApenAI_GCP_Xauto_Bot)
+- [OpenAI_GCP_Xauto_Bot](https://github.com/i-Chikako/ApenAI_GCP_Xauto_Bot)
